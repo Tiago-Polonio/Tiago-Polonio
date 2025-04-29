@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - **Languages:** JavaScript, HTML, CSS, Java
 - **Frameworks:** React, Node.js, Django
 - **Tools:** Git, VS Code, Brackets, Sublime Text
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL, PostgreSQL
 
 ## 📊 GitHub Stats
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Polonio&show_icons=true&theme=radical)
